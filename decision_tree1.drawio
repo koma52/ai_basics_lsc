@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net">
   <diagram id="alcAeBTBtfli5OGJI9jK" name="Oldal-1">
-    <mxGraphModel dx="616" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="507" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-5" edge="1" parent="1" source="snGzg61j4ZgJt6-CBuKb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="snGzg61j4ZgJt6-CBuKb-4" value="Varázsló">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-7" edge="1" parent="1" source="snGzg61j4ZgJt6-CBuKb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="snGzg61j4ZgJt6-CBuKb-3" value="Herceg">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-12" edge="1" parent="1" source="snGzg61j4ZgJt6-CBuKb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="snGzg61j4ZgJt6-CBuKb-2" value="Lovag">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Kastély" vertex="1">
+          <mxGeometry height="40" width="100" x="400" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-14" edge="1" parent="1" source="snGzg61j4ZgJt6-CBuKb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="snGzg61j4ZgJt6-CBuKb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ellenség kastély" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-9" edge="1" parent="1" source="snGzg61j4ZgJt6-CBuKb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="snGzg61j4ZgJt6-CBuKb-8" value="Királynő kezének&lt;div&gt;megkérése&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ellenség kastély" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-6" edge="1" parent="1" source="snGzg61j4ZgJt6-CBuKb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="snGzg61j4ZgJt6-CBuKb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Varázs erdő" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-11" edge="1" parent="1" source="snGzg61j4ZgJt6-CBuKb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="snGzg61j4ZgJt6-CBuKb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Kastély etkező" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Esküvő&lt;div&gt;JÓ KIMENETEL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Csata&lt;div&gt;ROSSZ KIMENETEL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
