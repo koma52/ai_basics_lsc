@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="alcAeBTBtfli5OGJI9jK" name="Oldal-1">
-    <mxGraphModel dx="507" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1073" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,10 +40,10 @@
         <mxCell id="snGzg61j4ZgJt6-CBuKb-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Kastély etkező" vertex="1">
           <mxGeometry height="60" width="120" x="390" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="snGzg61j4ZgJt6-CBuKb-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Esküvő&lt;div&gt;JÓ KIMENETEL&lt;/div&gt;" vertex="1">
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Esküvő&lt;div&gt;JÓ KIMENETEL&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="390" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="snGzg61j4ZgJt6-CBuKb-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Csata&lt;div&gt;ROSSZ KIMENETEL&lt;/div&gt;" vertex="1">
+        <mxCell id="snGzg61j4ZgJt6-CBuKb-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Csata&lt;div&gt;ROSSZ KIMENETEL&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="240" y="280" as="geometry" />
         </mxCell>
       </root>
